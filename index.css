@@ -1,0 +1,30 @@
+body{
+    padding:50px 100px;
+    background-color: pink;
+ }
+ h1{
+    text-align:center;
+    background-color: teal;
+    color:white;
+    padding:10px;
+    margin:0px;
+    
+ }
+ #textbox{
+  width:99.3%;
+ 
+  font-size: 15px;
+  border: 5px solid teal;
+
+ }
+
+ p{
+    text-align:center;
+    background-color: teal;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    padding:10px;
+    margin:0px;
+
+ }
